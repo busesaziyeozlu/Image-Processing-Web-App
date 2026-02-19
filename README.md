@@ -1,3 +1,19 @@
+## 🖥️ Application Preview
+
+<p align="center">
+  <img src="home.png" width="45%">
+  <img src="filterchoose.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="graychoose.png" width="45%">
+  <img src="grayscale.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="filter.png" width="60%">
+</p>
+
 # 🎨 Image Processing Web App (Streamlit + OpenCV)
 
 This project is a simple and interactive image processing web application built with **Streamlit** and **OpenCV**.  
