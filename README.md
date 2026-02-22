@@ -1,4 +1,4 @@
-## 🖥️ Application Preview
+## Application Preview
 
 <p align="center">
   <img src="home.png" width="45%">
@@ -26,7 +26,7 @@ Users can:
 
 ---
 
-## 📌 Features
+##  Features
 
 ✅ Grayscale Conversion  
 ✅ Blur Filter  
@@ -39,7 +39,7 @@ Users can:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Streamlit
@@ -49,7 +49,7 @@ Users can:
 
 ---
 
-## 📷 How It Works
+##  How It Works
 
 1. Upload an image (JPG, JPEG, PNG).
 2. Choose a processing option:
@@ -59,7 +59,7 @@ Users can:
 3. Select filter type and intensity (if needed).
 4. Click **Start Processing**.
 5. Download the processed image.
-🔬 Technical Overview
+ Technical Overview
 
 This application is built as an interactive image processing system that integrates Streamlit for the user interface and OpenCV for backend image processing operations. The system follows a structured pipeline starting from image acquisition, preprocessing, transformation, and finally rendering the processed output to the user interface.
 
@@ -81,7 +81,7 @@ Overall, this project demonstrates practical implementation of fundamental compu
 
 ---
 
-# 🎨 Görüntü İşleme Web Uygulaması (Streamlit + OpenCV)
+#  Görüntü İşleme Web Uygulaması (Streamlit + OpenCV)
 
 Bu proje, **Streamlit** ve **OpenCV** kullanılarak geliştirilmiş basit ve etkileşimli bir görüntü işleme web uygulamasıdır.
 
@@ -94,7 +94,7 @@ Kullanıcılar:
 
 ---
 
-## 📌 Özellikler
+##  Özellikler
 
 ✅ Gri Formata Dönüştürme  
 ✅ Bulanıklaştırma Filtresi  
@@ -107,7 +107,7 @@ Kullanıcılar:
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - Python
 - Streamlit
@@ -117,7 +117,7 @@ Kullanıcılar:
 
 ---
 
-## 📷 Nasıl Çalışır?
+##  Nasıl Çalışır?
 
 1. JPG, JPEG veya PNG formatında bir görüntü yükleyin.
 2. İşlem türünü seçin:
@@ -128,7 +128,7 @@ Kullanıcılar:
 4. **İşlemi Başlat** butonuna tıklayın.
 5. İşlenmiş görüntüyü indirin.
 
-🔬 Teknik Genel Bakış
+ Teknik Genel Bakış
 
 Bu uygulama, kullanıcı arayüzü için Streamlit ve arka plandaki görüntü işleme işlemleri için OpenCV kullanılarak geliştirilmiş etkileşimli bir görüntü işleme sistemidir. Sistem; görüntü alımı, ön işleme, dönüşüm ve son olarak işlenmiş çıktının kullanıcı arayüzünde gösterilmesi aşamalarından oluşan yapılandırılmış bir işleme hattını takip eder.
 
